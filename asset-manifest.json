@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://naeem-ali.github.io/csb-g9wubq/static/css/main.ced05c59.chunk.css",
+    "main.js": "https://naeem-ali.github.io/csb-g9wubq/static/js/main.bb19e8f4.chunk.js",
+    "main.js.map": "https://naeem-ali.github.io/csb-g9wubq/static/js/main.bb19e8f4.chunk.js.map",
+    "runtime-main.js": "https://naeem-ali.github.io/csb-g9wubq/static/js/runtime-main.44358e7a.js",
+    "runtime-main.js.map": "https://naeem-ali.github.io/csb-g9wubq/static/js/runtime-main.44358e7a.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://naeem-ali.github.io/csb-g9wubq/static/css/2.cbedb215.chunk.css",
+    "static/js/2.26e36a09.chunk.js": "https://naeem-ali.github.io/csb-g9wubq/static/js/2.26e36a09.chunk.js",
+    "static/js/2.26e36a09.chunk.js.map": "https://naeem-ali.github.io/csb-g9wubq/static/js/2.26e36a09.chunk.js.map",
+    "index.html": "https://naeem-ali.github.io/csb-g9wubq/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://naeem-ali.github.io/csb-g9wubq/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.ced05c59.chunk.css.map": "https://naeem-ali.github.io/csb-g9wubq/static/css/main.ced05c59.chunk.css.map",
+    "static/js/2.26e36a09.chunk.js.LICENSE.txt": "https://naeem-ali.github.io/csb-g9wubq/static/js/2.26e36a09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44358e7a.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.26e36a09.chunk.js",
+    "static/css/main.ced05c59.chunk.css",
+    "static/js/main.bb19e8f4.chunk.js"
+  ]
+}
